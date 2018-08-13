@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/carbon_mata.mk
+    $(LOCAL_DIR)/aquarios_mata.mk
